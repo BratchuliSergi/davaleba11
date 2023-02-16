@@ -1,0 +1,33 @@
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+/* header */
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#13345b ;
+    padding: 0px 72px 0px 64px;
+    
+    
+}
+ul{
+    display: flex;
+    gap: 52px;
+}
+li{
+    font-size: 2.25rem;
+    color: #fdd504;
+}
+li:hover{
+    border-bottom: 5px solid #fdd504;
+}
+.header_icons{
+    font-size: 2.5rem;
+    color: #fdd504;
+    display: flex;
+    gap: 23px;
+}
