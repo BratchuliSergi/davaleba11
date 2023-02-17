@@ -199,7 +199,7 @@ input[type="reset"]:hover{
     color: #000000;
 }
 /* footer */
-/* footer{
+footer{
     width: 100%;
     background-color: #13345B;
     padding: 110px 108px 110px 18px;
@@ -234,4 +234,4 @@ input[type="reset"]:hover{
     color: #FDD504;
     transform: skew(15deg);
     transition-duration: .4s;
-} */
+}
